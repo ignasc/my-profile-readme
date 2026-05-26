@@ -1,61 +1,75 @@
 # About Me
 
-My name is Ignas, I am electrical engineer and I am learning to code.
+My name is Ignas, I am electrical engineer with a growing focus on software development.
 
-# My current activities and work
+# Activities and work
 
-* Refreshing and improving my knowledge on [The Odin Project](https://www.theodinproject.com/) using full stack JavaScript path as my main tech stack focus.
+* Currently refreshing and improving my knowledge on [The Odin Project](https://www.theodinproject.com/) using full stack JavaScript path as my main tech stack focus.
 
-I am also hosting my own [portfolio](https://www.ignasc.lt/) on a server that is running on raspberry pi at home. Although my most recent details and projects are here on github and I will be looking to rebuild my website at some point in the future and potentially containerize everything to be able to use server for more than just a single website. Having linux operating system on my main desktop machine as a daily driver, made me comfortable using command line to do the very basic things like navigating around, working with files and folders, keeping system up to date and similar daily tasks. And I am also starting to dip my toes into more intermediate and advanced terminal commands too.
+* Hosting my own [portfolio](https://www.ignasc.lt/) on a server that is running on raspberry pi at home. Most of my recent work and projects are available here on GitHub. In the future, I plan to rebuild the hosted website and containerize the environment so the server can host additional services. Some plans include having a server resource monitoring panel and smart home automation using Home Assistant.
 
-Fun fact: accidentally breaking linux and then troubleshotting the issue makes me learn a ton of new stuff about operating system!
+* Using Linux as my daily driver for several years has made me comfortable working with the command line to do the common things like navigating around, working with files and folders, keeping system up to date, configuring applications and other similar tasks.
+
+* I have done some courses and tutorials in the past, most of them were done out of curiosity. Few to mention: IBM Full Stack Software Developer (Coursera), Complete C# Unity Game Developer 2D (Udemy), Machine Learning and AI with Andrew NG (Coursera), video tutorials on different programming languages like C++, C#, Python. 
 
 # Projects
 
-Current projects that I think are worthy to share while I am learning. Some are quite old, the ones that I did with just basic knowledge, while others are more recent that include better coding practices and more advanced features like classes, modules and better version management using git.
+Most projects listed below were done while progressing through courses (Odin Project curriculum being the latest one that I am working through). Some are quite old, the ones that I did with just basic knowledge, while others are more recent that include better coding practices and more advanced features like classes, modules and better version management using git.
 
-### Latest project
+### Card memorization game (React) - latest project
+* Async functions, react state management using useState, useEffect and useRef, API use through node wrapper.
+* [live preview](https://ignasc.github.io/odinProject-memoryGame/) and [source code](https://github.com/ignasc/odinProject-memoryGame)
 
-* Card memorization game (React): [live preview](https://ignasc.github.io/odinProject-memoryGame/), [source code](https://github.com/ignasc/odinProject-memoryGame)
+### Todo App (HTML/JS)
+* Using localStorage to preserve data between page reloads, JS modules to imitate database and CRUD operations.
+* [live preview](https://ignasc.github.io/todo-app/), [source code](https://github.com/ignasc/todo-app)
 
+### Math calculator (HTML/JS)
+* Keyboard driven use of the app is the main feature.
+* [live preview](https://ignasc.github.io/projectodin-foundations-project-4-calculator/), [source code](https://github.com/ignasc/projectodin-foundations-project-4-calculator)
 
-### Previous projects
+### Solutions to Project Euler coding challenges (JS)
+* Collection of algorithmic and problem-solving exercises completed in JavaScript.
+* [source code](https://github.com/ignasc/coding_challenges_projecteuler)
 
-* Todo App (HTML/JS): [live preview](https://ignasc.github.io/todo-app/), [source code](https://github.com/ignasc/todo-app)
-* Solutions to Project Euler coding problems (JS): [source code](https://github.com/ignasc/coding_challenges_projecteuler)
-* Diceware password generator (basic HTML/JS): [live preview](https://ignasc.github.io/diceware-password-generator/), [source code](https://github.com/ignasc/diceware-password-generator)
-* Simple book library (HTML/JS): [live preview](https://ignasc.github.io/projectodin-bookLibrary/), [source code](https://github.com/ignasc/projectodin-bookLibrary)
-* Budget calculator (React): [live preview](https://www.ignasc.lt/projects/personal-budget-app/), [source code](https://github.com/ignasc/personal-budget-app)
-* Math calculator (HTML/JS): [live preview](https://ignasc.github.io/projectodin-foundations-project-4-calculator/), [source code](https://github.com/ignasc/projectodin-foundations-project-4-calculator)
+### Diceware password generator (basic HTML/JS)
+* Project that I wanted to do myself.
+* Accessing and manipulating DOM elements and learning more about password strength and security.
+* [live preview](https://ignasc.github.io/diceware-password-generator/), [source code](https://github.com/ignasc/diceware-password-generator)
+
+### Simple book library (HTML/JS)
+* Practice project using DOM manipulation and html form validation.
+* [live preview](https://ignasc.github.io/projectodin-bookLibrary/), [source code](https://github.com/ignasc/projectodin-bookLibrary)
+
+### Budget calculator (React)
+* First practice using react and it's components, state management.
+* [live preview](https://www.ignasc.lt/projects/personal-budget-app/), [source code](https://github.com/ignasc/personal-budget-app)
 
 # Languages and tools
 
-## Most used
-Languages and tools listed below are the ones I am the most familiar with and either use friequently or spent a lot of time using them in the past.
+## Most recently used
+Languages and tools listed below are the ones I am the most familiar with and they have been frequently used in my recent projects.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-## Been introduced to
-Languages and tools listed below are the ones I have had a basic introduction to throughout courses, mini projects and coding challenges. While I would not be able to jump into them immediately, I have the understanding of basic principles and what pusposes these tools serve and it makes it much easier to get up to speed with them than if I was to learn them from zero.
+## Past exposure
+Languages and tools listed below are the ones I have been exposed to in the past throughout courses, mini projects and coding challenges. I have the understanding of basic principles and what purposes these tools serve.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/esu.ignas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ignas.c) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ignasc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ignasc)
 <!---
 ignasc/my-profile-readme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
